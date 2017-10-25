@@ -11,6 +11,7 @@ public class Main {
     public static void main(String[] args) {
         //staticProxyMethod();
         dynamicProxyMethod();
+
     }
 
     private static void dynamicProxyMethod() {
