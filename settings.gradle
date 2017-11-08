@@ -1,1 +1,1 @@
-include ':proxypattern', ':compositepattern', ':adapterpattern'
+include ':proxypattern', ':compositepattern', ':adapterpattern', ':wrapperpattern'
